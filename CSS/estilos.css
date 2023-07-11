@@ -1,0 +1,14 @@
+*{
+    font-family: 'Chela One', cursive;
+}
+body {
+    padding: 40px;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
